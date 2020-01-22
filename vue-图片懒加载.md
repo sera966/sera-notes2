@@ -20,3 +20,5 @@
 
 ####3.<b>在 nuxt.config.js 中配置
 <img src="./imgs/7.png">
+
+###
